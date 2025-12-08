@@ -1,0 +1,179 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header-full-widht-for-text {
+    width: 1240px;
+    margin: auto;
+}
+
+.header-full-widht-for-text h5 {
+    font-size: 15px;
+    color: white;
+    padding: 6px;
+}
+
+.header-full-widht-for-date {
+    /* background: green; */
+    /* width: 105%; */
+}
+.main-logo {
+    width: 44%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.main-logo img {
+    width: 100%;
+}
+.main-menu {
+    width: 1240px;
+    margin: auto;
+}
+
+.main-menu nav ul {
+    list-style: none;
+    display: flex;
+}
+
+.main-menu nav ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    display: block;
+    padding: 9px;
+    color: white;
+}
+
+.main-menu-full-widht {
+    background: green;
+    /* width: 120%; */
+}
+.main-menu nav ul li {
+    border-left: 1px solid #555555;
+    border-right: 1px solid #999999;
+}
+
+.main-menu nav ul li:first-child {
+    border: none;
+}
+
+.main-menu nav ul li:last-child {
+    border: none;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header-full-widht-for-text {
+    width: 1240px;
+    margin: auto;
+}
+
+.header-full-widht-for-text h5 {
+    font-size: 15px;
+    color: white;
+    padding: 6px;
+}
+
+.header-full-widht-for-date {
+    background: green;
+    width: 134%;
+}
+.main-logo {
+    width: 44%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.main-logo img {
+    width: 100%;
+}
+.main-menu {
+    width: 1240px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.main-menu nav ul {
+    list-style: none;
+    display: flex;
+}
+
+.main-menu nav ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    display: block;
+    padding: 9px;
+    color: white;
+    transition: all 0.5s ease-in-out;
+}
+
+.main-menu-full-widht {
+    background: green;
+   
+}
+.main-menu nav ul li {
+    border-left: 1px solid #555555;
+    border-right: 1px solid #999999;
+}
+
+.main-menu nav ul li:first-child {
+    border: none;
+}
+
+.main-menu nav ul li:last-child {
+    border: none;
+}
+
+.main-menu nav ul li a:hover {
+    background: red;
+}
+.footer-full-widht {
+    width: 1240px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer{
+    background: antiquewhite;}
+    .footer-logo {
+    width: 22%;
+    padding: 33px;
+}
+
+.footer-text {
+    width: 60%;
+    padding: 55px 1px;
+}
+
+.footer-logo img {
+    width: 100%;
+}
+
+.footer-text h1 {
+    font-size: 19px;
+    padding: 10px 0;
+}
+
+.footer-text h2 {
+    font-size: 19px;
+    padding: 6px 0;
+}
+.footer-text h3 {
+    font-size: 12px;
+    padding: 5px 0;
+}
+
+.footer-text h4 {
+    font-size: 12px;
+    padding: 5px 0px;
+}
+
+.footer-text h5 {
+    font-size: 12px;
+}
